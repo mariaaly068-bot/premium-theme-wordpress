@@ -1,0 +1,15 @@
+/*
+Theme Name: Marketplace Pro
+Theme URI: http://example.com/marketplace-pro
+Author: Your Name
+Author URI: http://example.com/
+Description: A premium WordPress theme for showcasing apps
+Version: 1.0.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: marketplace-pro
+*/
+
+body {
+    font-family: Arial, sans-serif;
+}
